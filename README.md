@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Precious Uwem from Port-Harcourt, Nigeria. <br>I'm a full-stack web developer ||<br>with several years of experience building websites<br> for business owners and organization. I have experience<br>in a variety of web development technologies such as<br> HTML5, CSS3, TAILWIND CSS, JAVASCRIPT, EXPRESS, MySQL, <br>NODE.JS, POSTSGRSQL, REACT, MONGODB, EJS<br> BOOTSTRAP, and Git version control. <br>
+Hi, my name is Precious Uwem from Port-Harcourt, Nigeria. I'm a full-stack web developer with several years of experience building websites for business owners and organization. I have experience in a variety of web development technologies such as HTML5, CSS, JAVASCRIPT, MySQL, NODE.JS, Express js, PostgreSQL BOOTSTRAP, and Git version control.
 
 
 # 💻 Tech Stack:
